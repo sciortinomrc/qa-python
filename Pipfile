@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-requests = "==2.19.0"
+requests = "==2.31.0"
 eo-lookup-revo = ">1.0.0"
 
 
